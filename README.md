@@ -9,6 +9,6 @@
 
   Run `npm run dev` to start the development server.
 
-  # Chatbot with friendly response
+  # Chatbot with Standard response
   # with AI Disclaimer 
   
