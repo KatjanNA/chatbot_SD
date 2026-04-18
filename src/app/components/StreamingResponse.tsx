@@ -9,14 +9,14 @@ interface StreamingResponseProps {
 
 const fullText = {
   intro:
-    " Um deine 3.000 € sinnvoll anzulegen, habe ich ETF A und ETF B miteinander verglichen und eine passende Strategie entwickelt, die auf Wachstum und Sicherheit aufbaut.",
-  etfA: " unterstützt dich weltweit in wachstumsstarke Bereiche wie Technologie und Konsum zu investieren. Mit einer Rendite von 5,2% bietet er dir gute Ertragschancen, ist aber mit mittlerem Risiko verbunden, womit du stärkere Schwankungen unterliegen kannst.",
-  etfB: " fokussiert sich auf nachhaltige und europäische Unternehmen. Die Rendite ist mit 3,1% niedriger, dafür ist das Risiko geringer und die Kosten sind günstiger. So sorgt der Fonds für Stabilität und Sicherheit in deinem Portfolio.",
+    " Für deine Investition von 3.000 € habe ich ETF A und ETF B analysiert, um eine ausgewogene Strategie für dich zu erarbeiten, sodass du mögliche Wachstumschancen realisieren kannst, während Risiken gemindert werden.",
+  etfA: " ermöglicht dir, weltweit in wachstumsstarke Bereiche zu investieren. Mit einer Rendite von 5,2 % und den niedrigen Kosten bietet er dir gute Ertragschancen, ist aber mit mittlerem Risiko verbunden, weshalb stärkere Schwankungen möglich sind.",
+  etfB: " bietet dir eine nachhaltige und gleichzeitig stabile Ausrichtung. Du investierst in europäische Unternehmen mit geringem Risiko und niedrigen Kosten. Die Rendite von 3,1 % sorgt dabei für eine solide Grundlage mit geringeren Marktschwankungen.",
   recommendation:
-    " Ich würde dir raten dein Geld aufzuteilen mit 70 % in ETF A und 30 % in ETF B. Das entspricht 2.100 € und 900 €, womit du Wachstumspotenzial nutzt, ohne hohes Risiko einzugehen.",
+    " Ich würde dir empfehlen, im Verhältnis 70 % zu 30 % auf ETF A und ETF B zu verteilen. Das heißt für dich: 2.100 € in ETF A und 900 € in ETF B.",
   conclusion:
-    " Mit dem Anteil im ETF A setzt du auf weltweites Wachstum und nutzt die höheren Renditechancen. ETF B nutzt du, um dein Gesamtrisiko zu senken. So erreichst du eine gute Streuung für dein Geld. Du profitierst durch diese Mischung von einer soliden Wertentwicklung und hältst gleichzeitig deine laufenden Kosten niedrig.",
-  end: " Damit bist du solide aufgestellt",
+    " Diese Aufteilung verbindet Wachstum und Sicherheit sinnvoll, indem es die Renditechancen des globalen Marktes mit der Sicherheit nachhaltiger Anlagen kombiniert. Durch die 70/30-Teilung nutzt du das globale Wachstumspotenzial von A, während B für die nötige Stabilität und Risikostreuung sorgt. Das Ergebnis ist ein fundiertes und gut diversifiziertes Investment.",
+  end: " Damit bist du solide aufgestellt 👍",
 
   disclaimer:
     " Diese Inhalte wurden von einer Künstlichen Intelligenz erstellt. Sie dienen zu Informationszwecken, können Fehler enthalten und ersetzen keine professionelle Beratung. Bitte prüfen Sie wichtige Angaben eigenständig, bevor Sie auf deren Basis handeln.",
