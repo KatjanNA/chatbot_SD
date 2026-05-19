@@ -289,12 +289,12 @@ export function StreamingResponse({
         )}
 
         {showDisclaimer && (
-          <div className="bg-gray-100 border shadow-sm border-gray-200 rounded-lg p-2 text-sm text-gray-600 animate-fade-in">
-            <div className="flex items-center gap-2">
+          <div className="bg-gray-100 shadow-sm border border-gray-200 py-3 px-2 rounded-lg p-0 text-sm text-gray-600 animate-fade-in">
+            <div className="flex items-center">
               <img
                 src={iconSvg}
                 alt="AI"
-                className="w-24 h-24 flex-shrink-0"
+                className="w-25 h-25 flex-shrink-0"
               />
               <p className="m-0">{displayedDisclaimer}</p>
             </div>
